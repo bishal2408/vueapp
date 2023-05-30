@@ -22,7 +22,7 @@ onMounted(async () => {
 
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:8000/",
+  baseURL: "https://user.excitedmonkeys.com/",
   headers: {
     "Content-Type": "application/json",
   },
