@@ -147,7 +147,7 @@ const login = async () => {
                     id="rememberMe"
                     labelClass="mb-0 ms-3"
                     checked
-                    >Remember me</MaterialSwitch
+                    >Remember meeeeee</MaterialSwitch
                   >
                   
                   
